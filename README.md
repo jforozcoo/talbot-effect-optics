@@ -1,2 +1,2 @@
 # talbot-effect-optics
-A single shot holography system based on the talbot effect is simulated. Light propagation is modeled using the Angular Spectrum method.
+Simulation of a single shot holography system based on the talbot effect. Light propagation is modeled using the Angular Spectrum method.
